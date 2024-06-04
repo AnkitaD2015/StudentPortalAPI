@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\StudentAdminPortal\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj": {}
+    "C:\\StudentAPI\\StudentAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj": {}
   },
   "projects": {
-    "D:\\StudentAdminPortal\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj": {
+    "C:\\StudentAPI\\StudentAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\StudentAdminPortal\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj",
+        "projectUniqueName": "C:\\StudentAPI\\StudentAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj",
         "projectName": "StudentsAdminPortal.API",
-        "projectPath": "D:\\StudentAdminPortal\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj",
-        "packagesPath": "C:\\Users\\012173\\.nuget\\packages\\",
-        "outputPath": "D:\\StudentAdminPortal\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\obj\\",
+        "projectPath": "C:\\StudentAPI\\StudentAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API.csproj",
+        "packagesPath": "C:\\Users\\012222\\.nuget\\packages\\",
+        "outputPath": "C:\\StudentAPI\\StudentAdminPortal.API\\StudentsAdminPortal.API\\StudentsAdminPortal.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\012173\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\012222\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
